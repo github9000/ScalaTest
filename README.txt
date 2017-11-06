@@ -36,6 +36,13 @@ Kens-MacBook-Pro:scala_tests kenw$
 
 =============================================================================
 
+"Programming in Scala, Third Edition" web-site, source-code and errata.
+https://booksites.artima.com/programming_in_scala_3ed
+Source-code
+https://booksites.artima.com/programming_in_scala_3ed/examples/
+
+
+SCALA language main web-site
 https://www.scala-lang.org/documentation/getting-started.html
 
 =============================================================================
