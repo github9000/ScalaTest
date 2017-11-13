@@ -3,10 +3,11 @@
     http://otfried.org/scala/index_30.html
 
     USAGE:
-    > fsc gui3.scala 
+    > fsc gui3.scala     OR  scalac gui3.scala
     > scala GuiProgramThree
     
 */
+
 import scala.swing._
 
 class UI extends MainFrame {

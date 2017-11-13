@@ -3,9 +3,9 @@
     http://otfried.org/scala/index_29.html
 
     USAGE:
-    > fsc gui2.scala 
+    > fsc gui2.scala  OR scalac gui2.scala
     > scala GuiProgramTwo
-    End of main function
+
 */
 
 import scala.swing._

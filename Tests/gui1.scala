@@ -3,7 +3,7 @@
     http://otfried.org/scala/index_28.html
 
     USAGE:
-    > fsc gui1.scala 
+    > fsc gui1.scala    OR   scalac gui1.scala
     > scala GuiProgramOne
     End of main function
     
