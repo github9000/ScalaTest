@@ -1,6 +1,11 @@
 
 =============================================================================
 
+SYNTAX EXAMPLES
+https://www.tutorialspoint.com/scala/scala_for_loop.htm
+
+=============================================================================
+
 Kens-MacBook-Pro:scala_tests kenw$ scala
 Welcome to Scala 2.12.3 (Java HotSpot(TM) 64-Bit Server VM, Java 1.8.0_51).
 
